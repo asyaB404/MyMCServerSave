@@ -1,26 +1,39 @@
-[11:30:57] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[11:31:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:31:07] [ServerMain/INFO]: Loaded 1337 recipes
-[11:31:07] [ServerMain/INFO]: Loaded 1448 advancements
-[11:31:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[11:31:07] [Server thread/INFO]: Loading properties
-[11:31:07] [Server thread/INFO]: Default game type: SURVIVAL
-[11:31:07] [Server thread/INFO]: Generating keypair
-[11:31:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:31:07] [Server thread/INFO]: Using default channel type
-[11:31:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:31:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:31:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:31:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:31:08] [Server thread/INFO]: Preparing level "world"
-[11:31:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:31:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[11:31:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[11:31:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[11:31:09] [Server thread/INFO]: Time elapsed: 1226 ms
-[11:31:09] [Server thread/INFO]: Done (1.849s)! For help, type "help"
-[11:31:16] [Server thread/INFO]: kexin[/127.0.0.1:59554] logged in with entity id 357 at (78.49144556842649, 82.0, 13.518223133578985)
-[11:31:16] [Server thread/INFO]: kexin joined the game
-[11:31:37] [Server thread/INFO]: kexin lost connection: Disconnected
-[11:31:37] [Server thread/INFO]: kexin left the game
-[11:32:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:42:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:42:51] [ServerMain/INFO]: Loaded 1337 recipes
+[11:42:51] [ServerMain/INFO]: Loaded 1448 advancements
+[11:42:51] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[11:42:51] [Server thread/INFO]: Loading properties
+[11:42:51] [Server thread/INFO]: Default game type: SURVIVAL
+[11:42:51] [Server thread/INFO]: Generating keypair
+[11:42:51] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[11:42:52] [Server thread/INFO]: Using default channel type
+[11:42:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:42:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:42:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:42:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:42:52] [Server thread/INFO]: Preparing level "world"
+[11:42:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:00] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:43:01] [Server thread/INFO]: Time elapsed: 7433 ms
+[11:43:01] [Server thread/INFO]: Done (8.328s)! For help, type "help"
+[11:44:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:44:31] [Server thread/INFO]: basya[/127.0.0.1:57164] logged in with entity id 362 at (88.4575984350379, 77.0, -4.0606116478869705)
+[11:44:31] [Server thread/INFO]: basya joined the game
+[11:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
+[11:44:55] [Server thread/INFO]: basya lost connection: Disconnected
+[11:44:55] [Server thread/INFO]: basya left the game
+[11:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7655ms or 153 ticks behind
