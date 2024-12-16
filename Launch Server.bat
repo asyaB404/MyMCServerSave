@@ -5,7 +5,7 @@ echo Äã¿ÉÒÔÔÚ PCL µÄ [ÉèÖÃ ¡ú Æô¶¯Ñ¡Ïî] ÖĞ²é¿´ÒÑ°²×°µÄ java£¬ËùĞèµÄ java.exe Ò»°
 echo ------------------------------
 echo Èç¹ûÌáÊ¾ "You need to agree to the EULA in order to run the server"£¬Çë´ò¿ª eula.txt£¬°´ËµÃ÷ÔÄ¶Á²¢Í¬Òâ Minecraft EULA ºó£¬½«¸ÃÎÄ¼ş×îºóÒ»ĞĞÖĞµÄ eula=false ¸ÄÎª eula=true¡£
 echo ------------------------------
-"D:\game\MC\1.21.3\jdk-21.0.2\bin\java.exe" -server -XX:+UseG1GC -Xmx4096M -Xms1024M -XX:+UseCompressedOops -jar 1.21.3-server.jar nogui
+"C:\Users\29088\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\java.exe" -server -XX:+UseG1GC -Xmx4096M -Xms1024M -XX:+UseCompressedOops -jar 1.21.3-server.jar nogui
 echo ----------------------
 echo ·şÎñ¶ËÒÑÍ£Ö¹¡£
 pause
