@@ -1,43 +1,37 @@
-[23:37:03] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[23:37:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:37:19] [ServerMain/WARN]: Failed to load profile cache .\usercache.json
-com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but was com.google.gson.JsonPrimitive; at path $
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1010) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1137) ~[gson-2.10.1.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1075) ~[gson-2.10.1.jar:?]
-	at awe.b(SourceFile:203) ~[server-1.21.3.jar:?]
-	at awe.<init>(SourceFile:67) ~[server-1.21.3.jar:?]
-	at amu.a(SourceFile:20) ~[server-1.21.3.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:133) ~[server-1.21.3.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[23:37:22] [ServerMain/INFO]: Loaded 1337 recipes
-[23:37:22] [ServerMain/INFO]: Loaded 1448 advancements
-[23:37:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:37:22] [Server thread/INFO]: Loading properties
-[23:37:22] [Server thread/INFO]: Default game type: SURVIVAL
-[23:37:22] [Server thread/INFO]: Generating keypair
-[23:37:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:37:23] [Server thread/INFO]: Using default channel type
-[23:37:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:37:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:37:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:37:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:37:23] [Server thread/INFO]: Preparing level "world"
-[23:37:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:37:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:37:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:37:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:37:25] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[23:37:25] [Server thread/INFO]: Time elapsed: 1649 ms
-[23:37:25] [Server thread/INFO]: Done (2.341s)! For help, type "help"
-[23:37:59] [Server thread/INFO]: kexin[/127.0.0.1:55716] logged in with entity id 357 at (86.5455584405047, 81.5, -6.3429844483114195)
-[23:37:59] [Server thread/INFO]: kexin joined the game
-[23:47:52] [Server thread/INFO]: kexin lost connection: Disconnected
-[23:47:52] [Server thread/INFO]: kexin left the game
-[23:48:40] [Server thread/INFO]: kexin[/127.0.0.1:59695] logged in with entity id 3724 at (175.75603641858325, 63.0, -76.18897591568492)
-[23:48:40] [Server thread/INFO]: kexin joined the game
-[23:48:44] [Server thread/INFO]: kexin lost connection: Disconnected
-[23:48:44] [Server thread/INFO]: kexin left the game
-[23:49:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:11:43] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[12:11:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:11:49] [ServerMain/INFO]: Loaded 1337 recipes
+[12:11:49] [ServerMain/INFO]: Loaded 1448 advancements
+[12:11:49] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[12:11:49] [Server thread/INFO]: Loading properties
+[12:11:49] [Server thread/INFO]: Default game type: SURVIVAL
+[12:11:49] [Server thread/INFO]: Generating keypair
+[12:11:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:11:50] [Server thread/INFO]: Using default channel type
+[12:11:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:11:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:11:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:11:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:11:50] [Server thread/INFO]: Preparing level "world"
+[12:11:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:11:51] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:11:51] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:11:51] [Server thread/INFO]: Time elapsed: 857 ms
+[12:11:51] [Server thread/INFO]: Done (1.359s)! For help, type "help"
+[12:12:38] [Server thread/INFO]: kexin[/127.0.0.1:57173] logged in with entity id 348 at (175.75603641858325, 63.0, -76.18897591568492)
+[12:12:38] [Server thread/INFO]: kexin joined the game
+[12:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-43, y=69, z=43} jh{x=-45, y=67, z=52}
+[12:43:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-43, y=70, z=47} jh{x=-47, y=68, z=53}
+[13:01:11] [Server thread/INFO]: kexin lost connection: Disconnected
+[13:01:11] [Server thread/INFO]: kexin left the game
+[13:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8033ms or 160 ticks behind
+[13:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3028ms or 60 ticks behind
+[13:02:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3665103ms or 73302 ticks behind
+[14:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 629693ms or 12593 ticks behind
+[14:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1409596ms or 28191 ticks behind
+[14:39:58] [Server thread/INFO]: kexin[/127.0.0.1:57989] logged in with entity id 9122 at (-44.293004999044456, 73.0, 52.30000001192093)
+[14:39:58] [Server thread/INFO]: kexin joined the game
+[15:14:22] [Server thread/INFO]: kexin lost connection: Disconnected
+[15:14:22] [Server thread/INFO]: kexin left the game
+[15:15:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
