@@ -791,6 +791,7 @@
       "minecraft:piglin": "2024-12-09 17:55:36 +0800",
       "minecraft:enderman": "2024-12-08 19:10:56 +0800",
       "minecraft:silverfish": "2024-12-13 13:50:58 +0800",
+      "minecraft:endermite": "2024-12-17 21:36:11 +0800",
       "minecraft:vex": "2024-12-13 16:01:34 +0800",
       "minecraft:zombie": "2024-12-08 19:11:33 +0800",
       "minecraft:drowned": "2024-12-11 14:17:53 +0800",
@@ -4215,6 +4216,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-15 16:03:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-17 20:19:20 +0800"
     },
     "done": true
   },
