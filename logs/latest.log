@@ -1,33 +1,27 @@
-[14:37:58] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[14:38:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:38:07] [ServerMain/INFO]: Loaded 1337 recipes
-[14:38:07] [ServerMain/INFO]: Loaded 1448 advancements
-[14:38:08] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[14:38:08] [Server thread/INFO]: Loading properties
-[14:38:08] [Server thread/INFO]: Default game type: SURVIVAL
-[14:38:08] [Server thread/INFO]: Generating keypair
-[14:38:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:38:08] [Server thread/INFO]: Using default channel type
-[14:38:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:38:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:38:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:38:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:38:08] [Server thread/INFO]: Preparing level "world"
-[14:38:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[14:38:10] [Server thread/INFO]: Time elapsed: 1488 ms
-[14:38:10] [Server thread/INFO]: Done (2.155s)! For help, type "help"
-[14:38:44] [Server thread/INFO]: kexin[/127.0.0.1:56143] logged in with entity id 370 at (176.88236382211647, 71.0, -343.96687102858345)
-[14:38:44] [Server thread/INFO]: kexin joined the game
-[15:02:12] [Server thread/WARN]: kexin moved too quickly! -0.04199910618424951,-2.7659357688613113,17.273029565745617
-[15:14:24] [Server thread/INFO]: kexin lost connection: Disconnected
-[15:14:24] [Server thread/INFO]: kexin left the game
-[15:14:43] [Server thread/INFO]: kexin[/127.0.0.1:56533] logged in with entity id 15216 at (130.62482722747703, 50.875, -19.755181692051487)
-[15:14:43] [Server thread/INFO]: kexin joined the game
-[15:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=203, y=58, z=-311} jh{x=199, y=71, z=-307}
-[15:33:01] [Server thread/INFO]: kexin lost connection: Disconnected
-[15:33:01] [Server thread/INFO]: kexin left the game
-[15:34:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1751263ms or 35025 ticks behind
+[19:06:15] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[19:06:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:06:21] [ServerMain/INFO]: Loaded 1337 recipes
+[19:06:21] [ServerMain/INFO]: Loaded 1448 advancements
+[19:06:21] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:06:21] [Server thread/INFO]: Loading properties
+[19:06:21] [Server thread/INFO]: Default game type: SURVIVAL
+[19:06:21] [Server thread/INFO]: Generating keypair
+[19:06:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:06:21] [Server thread/INFO]: Using default channel type
+[19:06:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:06:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:06:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:06:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:06:22] [Server thread/INFO]: Preparing level "world"
+[19:06:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:06:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:06:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:06:23] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:06:23] [Server thread/INFO]: Time elapsed: 1110 ms
+[19:06:23] [Server thread/INFO]: Done (1.467s)! For help, type "help"
+[19:07:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:07:36] [Server thread/INFO]: kexin[/127.0.0.1:62831] logged in with entity id 362 at (81.75550262909164, 77.0, -1.463890521228882)
+[19:07:36] [Server thread/INFO]: kexin joined the game
+[19:07:39] [Server thread/INFO]: Villager cpj['Villager'/7, l='ServerLevel[ggb]', x=20.33, y=75.25, z=-40.36] died, message: 'Villager was slain by Zombie'
+[19:12:24] [Server thread/INFO]: kexin lost connection: Disconnected
+[19:12:24] [Server thread/INFO]: kexin left the game
