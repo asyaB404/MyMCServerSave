@@ -1,39 +1,33 @@
-[00:04:09] [Server thread/INFO]: kexin[/127.0.0.1:64968] logged in with entity id 91154 at (15.407034142141724, 57.5625, 41.39825872603299)
-[00:04:09] [Server thread/INFO]: kexin joined the game
-[00:07:29] [Server thread/INFO]: basya[/127.0.0.1:65041] logged in with entity id 92899 at (272.17095611908394, 12.0625, -7.579938899839575)
-[00:07:29] [Server thread/INFO]: basya joined the game
-[00:07:32] [Server thread/INFO]: [Not Secure] <basya> .
-[00:07:35] [Server thread/INFO]: [Not Secure] <basya> 不睡觉是吧
-[00:08:04] [Server thread/INFO]: [basya: Teleported basya to kexin]
-[00:09:21] [Server thread/INFO]: [Not Secure] <basya> 不附魔你的三叉了？
-[00:09:48] [Server thread/INFO]: [Not Secure] <kexin> 没有蓝宝石
-[00:09:52] [Server thread/INFO]: [Not Secure] <basya> ..?
-[00:09:58] [Server thread/INFO]: [Not Secure] <basya> 青金石？
-[00:10:09] [Server thread/INFO]: [Not Secure] <kexin> LVBAOS
-[00:10:15] [Server thread/INFO]: [Not Secure] <basya> 绿宝石
-[00:10:17] [Server thread/INFO]: [Not Secure] <kexin> LV BAO S
-[00:10:24] [Server thread/INFO]: [Not Secure] <basya> 。。？
-[00:10:30] [Server thread/INFO]: [Not Secure] <basya> 挥霍完了吗
-[00:10:36] [Server thread/INFO]: [Not Secure] <basya> 我以为还有很多呢
-[00:10:53] [Server thread/INFO]: [Not Secure] <basya> 那我附魔个钓鱼竿玩玩
-[00:10:58] [Server thread/INFO]: [Not Secure] <basya> 30级的钓鱼竿
-[00:13:05] [Server thread/INFO]: [Not Secure] <basya> 手脚架怎恶魔做
-[00:13:11] [Server thread/INFO]: [Not Secure] <basya> 手脚架怎么做
-[00:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:15:36] [Server thread/INFO]: Villager cpj['Villager'/91204, l='ServerLevel[ggb]', x=75.35, y=82.00, z=12.62] died, message: 'Villager burned to death'
-[00:16:20] [Server thread/INFO]: [basya: Set own game mode to Spectator Mode]
-[00:16:23] [Server thread/INFO]: [basya: Teleported basya to kexin]
-[00:17:00] [Server thread/INFO]: [basya: Set own game mode to Survival Mode]
-[00:17:57] [Server thread/INFO]: [basya: Summoned new Villager]
-[00:18:19] [Server thread/INFO]: [basya: Gave 1 [Shelter Pottery Sherd] to basya]
-[00:18:39] [Server thread/INFO]: [basya: Set own game mode to Creative Mode]
-[00:18:44] [Server thread/INFO]: [basya: Set own game mode to Survival Mode]
-[00:19:47] [Server thread/INFO]: [Not Secure] <basya> ..
-[00:19:50] [Server thread/INFO]: [Not Secure] <basya> 世超
-[00:19:55] [Server thread/INFO]: [Not Secure] <basya> 完了
-[00:20:08] [Server thread/INFO]: [Not Secure] <basya> 尸潮
-[00:21:53] [Server thread/INFO]: Villager cpj['Villager'/96158, l='ServerLevel[ggb]', x=194.45, y=63.00, z=-311.52] died, message: 'Villager was burned to a crisp while fighting basya'
-[00:22:10] [Server thread/INFO]: kexin lost connection: Disconnected
-[00:22:10] [Server thread/INFO]: kexin left the game
-[00:22:28] [Server thread/INFO]: basya lost connection: Disconnected
-[00:22:28] [Server thread/INFO]: basya left the game
+[14:37:58] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[14:38:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:38:07] [ServerMain/INFO]: Loaded 1337 recipes
+[14:38:07] [ServerMain/INFO]: Loaded 1448 advancements
+[14:38:08] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:38:08] [Server thread/INFO]: Loading properties
+[14:38:08] [Server thread/INFO]: Default game type: SURVIVAL
+[14:38:08] [Server thread/INFO]: Generating keypair
+[14:38:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:38:08] [Server thread/INFO]: Using default channel type
+[14:38:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:38:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:38:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:38:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:38:08] [Server thread/INFO]: Preparing level "world"
+[14:38:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[14:38:10] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[14:38:10] [Server thread/INFO]: Time elapsed: 1488 ms
+[14:38:10] [Server thread/INFO]: Done (2.155s)! For help, type "help"
+[14:38:44] [Server thread/INFO]: kexin[/127.0.0.1:56143] logged in with entity id 370 at (176.88236382211647, 71.0, -343.96687102858345)
+[14:38:44] [Server thread/INFO]: kexin joined the game
+[15:02:12] [Server thread/WARN]: kexin moved too quickly! -0.04199910618424951,-2.7659357688613113,17.273029565745617
+[15:14:24] [Server thread/INFO]: kexin lost connection: Disconnected
+[15:14:24] [Server thread/INFO]: kexin left the game
+[15:14:43] [Server thread/INFO]: kexin[/127.0.0.1:56533] logged in with entity id 15216 at (130.62482722747703, 50.875, -19.755181692051487)
+[15:14:43] [Server thread/INFO]: kexin joined the game
+[15:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=203, y=58, z=-311} jh{x=199, y=71, z=-307}
+[15:33:01] [Server thread/INFO]: kexin lost connection: Disconnected
+[15:33:01] [Server thread/INFO]: kexin left the game
+[15:34:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1751263ms or 35025 ticks behind
